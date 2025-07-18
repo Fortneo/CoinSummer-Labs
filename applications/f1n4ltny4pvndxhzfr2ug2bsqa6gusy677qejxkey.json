@@ -35,7 +35,7 @@
     "Weekly Allocation": "500TiB"
   },
   "Lifecycle": {
-    "State": "Granted",
+    "State": "ChangesRequested",
     "Validated At": "2025-07-17 06:57:41.911300734 UTC",
     "Validated By": "Fortneo",
     "Active": true,
@@ -43,7 +43,7 @@
     "Active Request ID": "d34b045b-2d16-45f0-a7ef-8e8e17c0edb0",
     "On Chain Address": "f1n4ltny4pvndxhzfr2ug2bsqa6gusy677qejxkey",
     "Multisig Address": "false",
-    "edited": true
+    "edited": false
   },
   "Allocation Requests": [
     {
