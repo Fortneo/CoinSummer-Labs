@@ -35,15 +35,25 @@
     "Weekly Allocation": "800TiB"
   },
   "Lifecycle": {
-    "State": "Submitted",
-    "Validated At": "",
-    "Validated By": "",
+    "State": "ReadyToSign",
+    "Validated At": "2025-07-23 06:57:37.490600488 UTC",
+    "Validated By": "Fortneo",
     "Active": true,
-    "Updated At": "2025-07-21 10:58:30.857987495 UTC",
-    "Active Request ID": "",
+    "Updated At": "2025-07-23 06:57:37.490603877 UTC",
+    "Active Request ID": "f7f02c91-e994-4616-8c32-b3ad76627376",
     "On Chain Address": "f12tgogewzwogg4qsgnsghhvznzio73akkot2722y",
     "Multisig Address": "false",
     "edited": false
   },
-  "Allocation Requests": []
+  "Allocation Requests": [
+    {
+      "ID": "f7f02c91-e994-4616-8c32-b3ad76627376",
+      "Request Type": "First",
+      "Created At": "2025-07-23 06:57:37.490605616 UTC",
+      "Updated At": "2025-07-23 06:57:37.490606457 UTC",
+      "Active": true,
+      "Allocation Amount": "439804651110400 B",
+      "Signers": []
+    }
+  ]
 }
